@@ -1,7 +1,7 @@
 - Hi, I’m Pablo. I'm currently learning how to code in my freetime.  
 - I’m interested both data and physical sciences. I recently ended a very brief, yet successful, experience playing online poker. 
           It was a diverting introduction to new ideas such as game theory, accounting concepts (e.g., "equity" and "EV"), and risks/rewards calculations. 
-          *Note: Due to new regulations; I am no longer allowed to play in my area. I hope to continute this hobby if I move to an area that does*       
+          *Note: Due to new regulations; Ignition Casino is no longer offered in my area. I hope to continute this hobby if my state regulates online poker*       
           I also enjoy working out, volunteering, and playing guitar. 
 - I’m currently learning as much as I can about data science in my freetime; specifically Bayesian mechanism design. 
           I am familiar with excel, but am currently trying to learn R  and Python.
